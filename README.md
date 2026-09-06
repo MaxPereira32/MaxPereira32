@@ -62,7 +62,11 @@ Atualmente em transição de carreira para **Engenharia de Software**, unindo vi
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 Estatísticas & Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaxPereira32/MaxPereira32/output/activity-graph.svg" alt="Gráfico de Atividades no GitHub" width="100%" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxPereira32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Max Pereira" />
