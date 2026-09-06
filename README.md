@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/maxpereira1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://wa.me/5591996360082">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o%20Cont%C3%ADnua-2ea44f?style=for-the-badge" alt="Status" />
 </p>
 
@@ -71,5 +74,6 @@ Atualmente em transição de carreira para **Engenharia de Software**, unindo vi
 ### 📬 Conecte-se comigo
 
 - 💼 **LinkedIn:** [linkedin.com/in/maxpereira1](https://www.linkedin.com/in/maxpereira1/)
-- 📧 **E-mail:** [lindomaxpereira@gmail.com](mailto:lindomaxpereira@gmail.com)
+- 📧 **E-mail:** [max.softengineer@gmail.com](mailto:max.softengineer@gmail.com)
+- 💬 **WhatsApp:** [+55 (91) 99636-0082](https://wa.me/5591996360082)
 - 🚀 Explore meus repositórios e projetos práticos logo abaixo!
